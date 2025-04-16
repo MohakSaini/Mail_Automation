@@ -51,9 +51,9 @@ DB_CONFIG = {
 }
 
 EMAIL_CONFIG = {
-    'sender': 'smohak1@gmail.com',
-    'recipient': 'smohak208@gmail.com',
-    'password': 'fxnk nzzq kcwu tsqb'  # Gmail App Password
+    'sender': 'sender_email',
+    'recipient': 'reciever_email',
+    'password': 'Gmail App Password'
 }
 
 
